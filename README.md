@@ -28,6 +28,5 @@ I specialize in building interactive systems, bridging the gap between scientifi
 ---
 
 ### 📫 Connect with me
-* **Portfolio:** [rodrigoc-c.github.io](https://rodrigoc-c.github.io) 
 * **LinkedIn:** [linkedin.com/in/rodrigo-cerda](https://www.linkedin.com/in/rodrigo-cerda/)
 * **Email:** [rodrigocerdac911@gmail.com](rodrigocerdac911@gmail.com)
