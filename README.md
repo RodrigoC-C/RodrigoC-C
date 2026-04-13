@@ -1,46 +1,119 @@
-# Hola, soy Rodrigo Cerda 👋
-### Backend Developer | Arquitectura de Microservicios & Inteligencia Artificial
+<div align="right">
+  <a href="https://www.linkedin.com/in/rodrigo-cerda">
+    <img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rodrigocerdac911@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</div>
 
-[📄 Descargar mi Currículum Vitae (CV)](https://github.com/RodrigoC-C/RodrigoC-C/blob/main/CV_Rodrigo_Cerda.pdf)
+<h1 align="center"> Hola, soy Rodrigo Cerda 👋 </h1>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodrigoC-C&label=PERFIL+VISTO&color=0047AB&style=flat-square" alt="RodrigoC-C" />
+</p>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 Soy Ingeniero en Computación e Informática especializado en el desarrollo backend y la integración de Inteligencia Artificial. Me apasiona construir sistemas escalables y contenerizados, transformando flujos de datos complejos en soluciones eficientes que resuelven problemas reales de negocio mediante la automatización.
 
----
+- 🎓 Titulado de la **Universidad Andrés Bello**.
+- 🛠️ Especializado en **Backend Developer | Arquitectura de Microservicios & IA**.
+- 🧪 Actualmente trabajando en la **V3.0** de mi motor RAG con FastAPI.
+- 🐳 Experto en **Docker y orquestación** de microservicios.
+- 📄 [**Descargar mi Currículum Vitae (CV)**](https://github.com/RodrigoC-C/RodrigoC-C/blob/main/CV_Rodrigo_Cerda.pdf)
 
-### 🛠️ Stack Tecnológico
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **IA & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+<br>
 
 ---
 
-### 🚀 Proyectos Destacados
+## 🛠️ | Tech Stack
+
+<table>
+  <tr>
+    <td align="left"><b>IA & Data:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" height="25" /> Python &nbsp;
+      <img src="https://skillicons.dev/icons?i=postgresql" height="25" /> PostgreSQL &nbsp;
+      <img src="https://skillicons.dev/icons?i=ollama" height="25" /> Ollama &nbsp;
+      <img src="https://skillicons.dev/icons?i=openai" height="25" /> OpenAI
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Backend:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="25" /> FastAPI &nbsp;
+      <img src="https://skillicons.dev/icons?i=nestjs" height="25" /> NestJS &nbsp;
+      <img src="https://skillicons.dev/icons?i=nodejs" height="25" /> Node.js &nbsp;
+      <img src="https://skillicons.dev/icons?i=sqlalchemy" height="25" /> SQLAlchemy
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>DevOps:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="25" /> Docker &nbsp;
+      <img src="https://skillicons.dev/icons?i=nginx" height="25" /> Nginx &nbsp;
+      <img src="https://skillicons.dev/icons?i=linux" height="25" /> Linux &nbsp;
+      <img src="https://skillicons.dev/icons?i=git" height="25" /> Git
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Frontend:</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" height="25" /> JavaScript &nbsp;
+      <img src="https://skillicons.dev/icons?i=html" height="25" /> HTML5 &nbsp;
+      <img src="https://skillicons.dev/icons?i=css" height="25" /> CSS3 &nbsp;
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="25" /> Bootstrap
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+## 🚀 | Proyectos Destacados
 
 #### 🧠 [Sistema de Convalidaciones Inteligente (Motor RAG)](https://github.com/RodrigoC-C/Sistema-convalidaciones)
 > **Stack:** *Python | FastAPI | Docker | PostgreSQL | pgvector | Ollama | n8n*
->
 > Motor de inferencia semántica diseñado para automatizar procesos académicos mediante una arquitectura RAG (Retrieval-Augmented Generation) 100% contenerizada.
-> * **Aporte Clave:** Diseño de búsqueda semántica con **normalización matemática** para eliminar ruido del lenguaje y optimización de recursos mediante **Vectorización Just-In-Time (JIT)**.
+> * **Aporte Clave:** Diseño de búsqueda semántica con **normalización matemática** para eliminar ruido del lenguaje y optimización de recursos mediante **Vectorización JIT**.
 
 #### 🌊 [ProyecTsu: Tsunami Visualization Pipeline](https://github.com/RodrigoC-C/ProyecTsu)
 > **Stack:** *Unity 3D | Python | GeoClaw | NetCDF*
->
 > Pipeline integral de datos científicos para la transcodificación y visualización 3D de simulaciones dinámicas en tiempo real.
 > * **Aporte Clave:** Desarrollo del backend en Python para optimización de datos binarios y lógica de renderizado mediante **GPU vertex displacement**.
 
 #### 🤖 Banubot
 > **Stack:** *React | Vite | Docker | Microservicios*
->
 > Plataforma interactiva de asistencia académica desplegada bajo una arquitectura de contenedores para entornos productivos.
 > * **Aporte Clave:** Arquitectura de la interfaz y gestión de Docker para el despliegue escalable de servicios frontend.
 > * *Nota: Repositorio privado por políticas institucionales.*
 
+<br>
+
 ---
 
-### 📫 Conecta conmigo
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cerda) 
-* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigocerdac911@gmail.com)
+## ⭐ | Github Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoC-C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoC-C&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoC-C&theme=tokyonight" alt="RodrigoC-C Streak" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<div align="center">
+  <b>¡Gracias por visitar mi perfil!</b> 🚀<br>
+  <i>Última actualización: Abril 2026</i>
+</div>
