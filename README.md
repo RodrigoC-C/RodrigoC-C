@@ -30,13 +30,13 @@ Soy Ingeniero en Computación e Informática especializado en el desarrollo back
 > * **Rol:** Full Stack Developer (Backend Pipeline & Unity Visualization).
 > * **Detalles:** Desarrollo del pipeline automatizado en Python para optimización de datos binarios y lógica de renderizado visual para modelos numéricos complejos.
 
-#### 🤖 [Banubot](https://banubot.cl/)
+#### 🤖 Banubot
 > *React | Vite | Docker*
-> Plataforma web interactiva para asistencia académica desplegada en un entorno productivo basado en contenedores.
+> Plataforma web interactiva para asistencia académica que operó en un entorno productivo basado en contenedores.
 > * **Rol:** Frontend Developer & Integration.
 > * **Contribución:** Arquitectura de la interfaz de usuario, gestión de Docker para despliegue y consumo de APIs backend.
-> * **Status:** Live Production 🟢
----
+> * **Nota:** Repositorio privado por políticas de propiedad intelectual institucional.
+> * **Status:** Proyecto Finalizado (Legacy) 📁
 
 ### 📫 Conecta conmigo
 * **LinkedIn:** [linkedin.com/in/rodrigo-cerda](https://www.linkedin.com/in/rodrigo-cerda)
