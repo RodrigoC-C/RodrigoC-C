@@ -1,32 +1,43 @@
-# Hi there, I'm Rodrigo 👋
-### Computer Engineering Student | Full Stack & Simulation Developer
+# Hola, soy Rodrigo Cerda 👋
+### Backend Developer | Arquitectura de Microservicios & Inteligencia Artificial
 
-I specialize in building interactive systems, bridging the gap between scientific data rendering (**Unity 3D**) and modern web architectures. My focus is on **Python Ecosystems** and **React** for scalable applications.
+[📄 Descargar mi Currículum Vitae (CV)](https://github.com/RodrigoC-C/RodrigoC-C/edit/main/CV_Rodrigo_Cerda.pdf)
+
+Soy Ingeniero en Computación e Informática especializado en el desarrollo backend y la integración de Inteligencia Artificial. Me apasiona construir sistemas escalables y contenerizados, transformando flujos de datos complejos en soluciones eficientes que resuelven problemas reales de negocio mediante la automatización.
 
 ---
 
-### 🛠️ Tech Stack
-* **Languages:** Python, C# (.NET), JavaScript/TypeScript.
-* **Backend:** FastAPI, Django, Python scripting.
-* **Frontend:** React, Vite, HTML5/CSS3.
-* **Engine & Simulation:** Unity 3D (URP/HDRP), GeoClaw.
-* **DevOps & Tools:** Docker, Git, n8n (Workflow Automation).
+### 🛠️ Stack Tecnológico
+* **Lenguajes:** Python, TypeScript, C#, SQL, Bash.
+* **Backend & Arquitectura:** NestJS, FastAPI, APIs REST, Arquitectura de Microservicios.
+* **Bases de Datos:** PostgreSQL, MySQL, pgvector (Bases de datos vectoriales).
+* **IA & Automatización:** Modelos Locales (Ollama), Arquitecturas RAG, n8n, Extracción OCR (Marker API).
+* **Infraestructura & Control de Versiones:** Docker, Docker Compose, Git, GitHub.
 
-### 🚀 Featured Projects
+---
+
+### 🚀 Proyectos Destacados
+
+#### 🧠 [Sistema de Convalidaciones Inteligente (Motor RAG)](https://github.com/RodrigoC-C/Sistema-convalidaciones)
+> *Python | Docker | PostgreSQL | pgvector | Ollama | n8n*
+> Motor de inferencia semántica diseñado para automatizar y optimizar procesos académicos mediante una arquitectura RAG (Retrieval-Augmented Generation) 100% contenerizada.
+> * **Rol:** Backend Developer & AI Integrator.
+> * **Contribución:** Diseño e implementación de la búsqueda semántica, integración de modelos locales para soberanía de datos y orquestación de flujos con n8n.
 
 #### 🌊 [ProyecTsu: Tsunami Visualization Pipeline](https://github.com/RodrigoC-C/ProyecTsu)
 > *Unity 3D | Python | GeoClaw*
-> A real-time 3D visualization tool that renders scientific tsunami data using GPU vertex displacement. Bridges the gap between numerical models and visual communication.
-> * **Role:** Full Stack Developer (Backend Pipeline & Unity Visualization).
+> Sistema integral que abarca desde el procesamiento y transcodificación de simulaciones científicas dinámicas hasta la visualización 3D en tiempo real utilizando GPU vertex displacement.
+> * **Rol:** Full Stack Developer (Backend Pipeline & Unity Visualization).
+> * **Detalles:** Desarrollo del pipeline automatizado en Python para optimización de datos binarios y lógica de renderizado visual para modelos numéricos complejos.
 
 #### 🤖 [Banubot](https://banubot.cl/)
 > *React | Vite | Docker*
-> An interactive web platform for academic assistance.
-> * **Role:** Frontend Developer & Integration.
-> * **Contribution:** Architected the user interface using **React** and **Vite**, managed containerization via **Docker**, and handled API integrations with the backend.
+> Plataforma web interactiva para asistencia académica desplegada en un entorno productivo basado en contenedores.
+> * **Rol:** Frontend Developer & Integration.
+> * **Contribución:** Arquitectura de la interfaz de usuario, gestión de Docker para despliegue y consumo de APIs backend.
 > * **Status:** Live Production 🟢
 ---
 
-### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/rodrigo-cerda](https://www.linkedin.com/in/rodrigo-cerda/)
-* **Email:** [rodrigocerdac911@gmail.com](rodrigocerdac911@gmail.com)
+### 📫 Conecta conmigo
+* **LinkedIn:** [linkedin.com/in/rodrigo-cerda](https://www.linkedin.com/in/rodrigo-cerda)
+* **Email:** [rodrigocerdac911@gmail.com](mailto:rodrigocerdac911@gmail.com)
