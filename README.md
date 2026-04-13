@@ -42,5 +42,5 @@ Soy Ingeniero en Computación e Informática especializado en el desarrollo back
 ---
 
 ### 📫 Conecta conmigo
-* **LinkedIn:** [linkedin.com/in/rodrigo-cerda](https://www.linkedin.com/in/rodrigo-cerda)
-* **Email:** [rodrigocerdac911@gmail.com](mailto:rodrigocerdac911@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cerda) 
+* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigocerdac911@gmail.com)
