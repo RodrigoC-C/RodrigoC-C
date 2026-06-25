@@ -22,9 +22,9 @@
 Soy Ingeniero en Computación e Informática especializado en el desarrollo backend y la integración de Inteligencia Artificial. Me apasiona construir sistemas escalables y contenerizados, transformando flujos de datos complejos en soluciones eficientes que resuelven problemas reales de negocio mediante la automatización.
 
 - 🎓 Titulado de la **Universidad Andrés Bello**.
-- 🛠️ Especializado en **Backend Developer | Arquitectura de Microservicios & IA**.
-- 🧪 Actualmente trabajando en la **V3.0** de mi motor RAG con FastAPI.
-- 🐳 Experto en **Docker y orquestación** de microservicios.
+- 🛠️ Especializandome en **Backend Developer | Arquitectura de Microservicios & IA**.
+- 🧪 Actualmente trabajando en Planning Satisfactory ⚙️.
+- 🐳 Con conocimientos en **Docker y orquestación** de microservicios.
 - 📄 [**Descargar mi Currículum Vitae (CV)**](https://github.com/RodrigoC-C/RodrigoC-C/blob/main/CV_Rodrigo_Cerda.pdf)
 
 <br>
